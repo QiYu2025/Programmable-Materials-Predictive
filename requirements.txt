@@ -1,0 +1,7 @@
+# Example Python dependencies for your project.
+# You can pin specific versions if desired (e.g., pandas==1.5.3).
+
+pandas
+numpy
+scikit-learn
+matplotlib
